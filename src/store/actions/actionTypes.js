@@ -1,0 +1,4 @@
+export const SAVE_MATCH = "SAVE_MATCH";
+export const SAVE_MATCHES_ERROR = "SAVE_MATCHES_ERROR";
+export const CLOSE_SEARCH_ERROR = "CLOSE_SEARCH_ERROR";
+export const SAVE_USER = "SAVE_USER";
